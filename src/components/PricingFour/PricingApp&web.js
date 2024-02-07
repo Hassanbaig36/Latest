@@ -2,21 +2,21 @@ import React from "react";
 
 const PricingAppWeb = () => {
   return (
-    <>   <div classname="pricingTable">
-    <h2 classname="pricingTable-title">App Web Packages</h2>
-    <h5 classname="pricingTable-subtitle">
+    <>  <div className="pricingTable">
+    <h2 className="pricingTable-title">App Web Packages</h2>
+    <h5 className="pricingTable-subtitle">
       Our tactics have been meticulously crafted to maximise profitability for you
       at a low cost.
     </h5>
-    <ul classname="pricingTable-firstTable">
-      <li classname="pricingTable-firstTable_table">
-        <h1 classname="pricingTable-firstTable_table__header">Bronze Packege</h1>
-        <p classname="pricingTable-firstTable_table__pricing">
+    <ul className="pricingTable-firstTable">
+      <li className="pricingTable-firstTable_table">
+        <h1 className="pricingTable-firstTable_table__header">Bronze Packege</h1>
+        <p className="pricingTable-firstTable_table__pricing">
           <span>$</span>
           <span>2499.99</span>
           <span>/3499</span>
         </p>
-        <ul classname="pricingTable-firstTable_table__options selector">
+        <ul className="pricingTable-firstTable_table__options selector">
           <li>5 to 20 Pages Website Custom Made, Interactive,</li>
           <li>
             Dynamic &amp; High End Design Custom WP (or) Custom PHP Development
@@ -53,19 +53,19 @@ const PricingAppWeb = () => {
           <li>100% Unique Design Guarantee</li>
           <li>100% Money Back Guarantee</li>
         </ul>
-        <button classname="pricingTable-firstTable_table__getstart">
+        <button className="pricingTable-firstTable_table__getstart">
           Book Now
         </button>
       </li>
-      <li classname="pricingTable-firstTable_table">
-        <h1 classname="pricingTable-firstTable_table__header">Silver Package</h1>
-        <p classname="pricingTable-firstTable_table__pricing">
+      <li className="pricingTable-firstTable_table">
+        <h1 className="pricingTable-firstTable_table__header">Silver Package</h1>
+        <p className="pricingTable-firstTable_table__pricing">
           <span>$</span>
           <span>3999.99</span>
           <span>6999</span>
         </p>
         <span>2 payment instalments</span>
-        <ul classname="pricingTable-firstTable_table__options selector">
+        <ul className="pricingTable-firstTable_table__options selector">
           <li>Unlimited Page Website</li>
           <li>Custom Content Management System CMS</li>
           <li>Unique Pages and UI Design</li>
@@ -113,17 +113,19 @@ const PricingAppWeb = () => {
           <li>Online Communities &amp; Social Engagement</li>
           <li>Curation of Resources And Adding Own Resources</li>
         </ul>
-        <button classname="pricingTable-firstTable_table__getstart">Book Now</button>
+        <button className="pricingTable-firstTable_table__getstart">
+          Book Now
+        </button>
       </li>
-      <li classname="pricingTable-firstTable_table">
-        <h1 classname="pricingTable-firstTable_table__header">Gold Package</h1>
-        <p classname="pricingTable-firstTable_table__pricing">
+      <li className="pricingTable-firstTable_table">
+        <h1 className="pricingTable-firstTable_table__header">Gold Package</h1>
+        <p className="pricingTable-firstTable_table__pricing">
           <span>$</span>
           <span>6,499.99</span>
           <span>/10499</span>
         </p>
         <span>3 payment instalments</span>
-        <ul classname="pricingTable-firstTable_table__options selector">
+        <ul className="pricingTable-firstTable_table__options selector">
           <li>Unlimited Page Website</li>
           <li>Custom Content Management System CMS</li>
           <li>Unique Pages and UI Design</li>
@@ -169,7 +171,7 @@ const PricingAppWeb = () => {
             procurementfunctionalities or a supplier/supplier set.
           </li>
           <li>
-            {" "}
+            {"{"}" "{"}"}
             Receiving/filing/documentation of invoices and payments/order requests
           </li>
           <li>Machine Learning ML for Supply Chain Planning SCP</li>
@@ -219,12 +221,13 @@ const PricingAppWeb = () => {
             making you the most money.
           </li>
         </ul>
-        <button classname="pricingTable-firstTable_table__getstart">
+        <button className="pricingTable-firstTable_table__getstart">
           Book Now
         </button>
       </li>
     </ul>
   </div>
+  
     </>
   );
 };
