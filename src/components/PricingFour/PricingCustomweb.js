@@ -421,21 +421,21 @@ const PricingCustomweb = () => {
         }
       `}</style>
 
-<div classname="pricingTable">
-  <h2 classname="pricingTable-title">Custom Website Packages</h2>
-  <h5 classname="pricingTable-subtitle">
+<div className="pricingTable">
+  <h2 className="pricingTable-title">Custom Website Packages</h2>
+  <h5 className="pricingTable-subtitle">
     Our tactics have been meticulously crafted to maximise profitability for you
     at a low cost.
   </h5>
-  <ul classname="pricingTable-firstTable">
-    <li classname="pricingTable-firstTable_table">
-      <h1 classname="pricingTable-firstTable_table__header">Bronze Packege</h1>
-      <p classname="pricingTable-firstTable_table__pricing">
+  <ul className="pricingTable-firstTable">
+    <li className="pricingTable-firstTable_table">
+      <h1 className="pricingTable-firstTable_table__header">Bronze Packege</h1>
+      <p className="pricingTable-firstTable_table__pricing">
         <span>$</span>
         <span>50</span>
         <span>/70</span>
       </p>
-      <ul classname="pricingTable-firstTable_table__options selector">
+      <ul className="pricingTable-firstTable_table__options selector">
         <li>4 Custom Logo Design Concepts</li>
         <li>1 Dedicated Designer</li>
         <li>4 Revisions</li>
@@ -444,18 +444,18 @@ const PricingCustomweb = () => {
         <li>100% Satisfaction Guarantee</li>
         <li>On-Page Optimization</li>
       </ul>
-      <button classname="pricingTable-firstTable_table__getstart">
+      <button className="pricingTable-firstTable_table__getstart">
         Book Now
       </button>
     </li>
-    <li classname="pricingTable-firstTable_table">
-      <h1 classname="pricingTable-firstTable_table__header">Silver Package</h1>
-      <p classname="pricingTable-firstTable_table__pricing">
+    <li className="pricingTable-firstTable_table">
+      <h1 className="pricingTable-firstTable_table__header">Silver Package</h1>
+      <p className="pricingTable-firstTable_table__pricing">
         <span>$</span>
         <span>150</span>
         <span>/200</span>
       </p>
-      <ul classname="pricingTable-firstTable_table__options selector">
+      <ul className="pricingTable-firstTable_table__options selector">
         <li>UNLIMITED Logo Design Concepts</li>
         <li>By 3 Designers UNLIMITED Revisions</li>
         <li>FREE Stationary Design Set</li>
@@ -467,18 +467,18 @@ const PricingCustomweb = () => {
         <li>100% Satisfaction Guarantee</li>
         <li>100% Ownership Rights</li>
       </ul>
-      <button classname="pricingTable-firstTable_table__getstart">
+      <button className="pricingTable-firstTable_table__getstart">
         Book Now
       </button>
     </li>
-    <li classname="pricingTable-firstTable_table">
-      <h1 classname="pricingTable-firstTable_table__header">Gold Package</h1>
-      <p classname="pricingTable-firstTable_table__pricing">
+    <li className="pricingTable-firstTable_table">
+      <h1 className="pricingTable-firstTable_table__header">Gold Package</h1>
+      <p className="pricingTable-firstTable_table__pricing">
         <span>$</span>
         <span>550</span>
         <span>/700</span>
       </p>
-      <ul classname="pricingTable-firstTable_table__options selector">
+      <ul className="pricingTable-firstTable_table__options selector">
         <li>UNLIMITED Logo Design Concepts</li>
         <li>UNLIMITED Business Card Concepts</li>
         <li>4 Page website</li>
@@ -491,7 +491,7 @@ const PricingCustomweb = () => {
         <li>100% Satisfaction Guarantee</li>
         <li>100% Ownership Rights</li>
       </ul>
-      <button classname="pricingTable-firstTable_table__getstart">
+      <button className="pricingTable-firstTable_table__getstart">
         Book Now
       </button>
     </li>

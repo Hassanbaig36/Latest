@@ -9,16 +9,16 @@ const SubscribeTwo = () => {
   };
 
   return (
-    <section classname="subscribe-two">
-    <div classname="subscribe-two__shape" />
-    <div classname="auto-container">
+    <section className="subscribe-two">
+    <div className="subscribe-two__shape" />
+    <div className="auto-container">
       <slide left="">
         <row>
-          <div classname="g">
-            <h3 classname="subscribe-two__title">
+          <div className="g">
+            <h3 className="subscribe-two__title">
               Have a &nbsp;Project in mind?
             </h3>
-            <a href="/portfolio" classname="about-nine__btn thm-btn__seven">
+            <a href="/portfolio" className="about-nine__btn thm-btn__seven">
               Let's discuss
             </a>
           </div>
