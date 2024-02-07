@@ -425,15 +425,9 @@ const PricingDm = () => {
 
     <div className="pricingTable">
       <h2 className="pricingTable-title">
-      Digital Marketing Packages
-
-
-      </h2>
+      Digital Marketing Packages </h2>
       <h5 className="pricingTable-subtitle">
-      Our tactics have been meticulously crafted to maximise profitability for you at a low cost.
-
-
-      </h5>
+      Our tactics have been meticulously crafted to maximise profitability for you at a low cost.</h5>
 
       <ul className="pricingTable-firstTable">
         <li className="pricingTable-firstTable_table">

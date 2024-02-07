@@ -17,9 +17,10 @@ const SubscribeTwo = () => {
           <Col md={12} lg={6}>
             <div className="g">
             <h3 className="subscribe-two__title">
-             Have a
-               Projectin mind ?
-            </h3>
+  Have a
+  &nbsp;Project in mind?
+</h3>
+
             <a href="/portfolio" className="about-nine__btn thm-btn__seven">
 					Let's discuss				
                 </a>

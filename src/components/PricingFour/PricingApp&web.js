@@ -564,7 +564,7 @@ const PricingAppWeb = () => {
           <span>3 payment instalments</span>
           <ul className="pricingTable-firstTable_table__options selector">
           <li>Unlimited Page Website</li>
-<li>Custom Content Management System (CMS)</li>
+<li>Custom Content Management System CMS</li>
 <li>Unique Pages and UI Design</li>
 <li>Complete Custom Development</li>
 <li>Process Automation Tools</li>
@@ -583,13 +583,13 @@ const PricingAppWeb = () => {
 <li>100% Satisfaction Guarantee</li>
 <li>100% Unique Design Guarantee</li>
 <li>Money Back Guarantee</li>
-<li>Suppliers Integration (API NEEDED)</li>
-<li>Shipper Integration (API NEEDED)</li>
+<li>Suppliers Integration API NEEDED</li>
+<li>Shipper Integration API NEEDED</li>
 <li>Order management</li>
 <li>LOT numbers and expire date tracking</li>
-<li>Transfer stock between warehouses (If Warehouse - API NEEDED)</li>
-<li>Receive stock into a specific warehouse (If Warehouse - API NEEDED)</li>
-<li>Fulfill orders from a particular warehouse (If Warehouse - API NEEDED)</li>
+<li>Transfer stock between warehouses If Warehouse - API NEEDED</li>
+<li>Receive stock into a specific warehouse If Warehouse - API NEEDED</li>
+<li>Fulfill orders from a particular warehouse If Warehouse - API NEEDED</li>
 <li>Stock Management</li>
 <li>Actionable Insights</li>
 <li>Real-Time Visibility</li>
@@ -598,9 +598,9 @@ const PricingAppWeb = () => {
 <li>Set and send actions to suppliers regarding governance and compliance materials. Place purchasing requests.</li>
 <li>Research and answer internal questions regarding procurement functionalities or a supplier/supplier set.</li>
 <li>Receiving/filing/documentation of invoices and payments/order requests</li>
-<li>Machine Learning (ML) for Supply Chain Planning (SCP)</li>
+<li>Machine Learning ML for Supply Chain Planning SCP</li>
 <li>Machine Learning for Warehouse Management</li>
-<li>Natural Language Processing (NLP) for Data Cleansing and Building Data Robustness</li>
+<li>Natural Language Processing NLP for Data Cleansing and Building Data Robustness</li>
 <li>Create beautiful, professional invoices & estimates in just a few seconds and then instantly email them as PDF's directly to your customers or prospects.</li>
 <li>Automated Split invoicing</li>
 <li>Automated Combine invoices</li>
